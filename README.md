@@ -18,6 +18,8 @@
 $ python main.py
 ```
 
+Измените файл utils/loader.py: в строку BOT_TOKEN добавьте токен своего бота.
+
 ## Установка
 
 ### Требования
@@ -30,7 +32,7 @@ $ pip install -r requirements.txt
 ```
 
 #### Для работы игры "Угадай слово" скачайте пак моделей
-[Google Drive](https://drive.google.com/file/d/1J247xEv76QM-pAGNEIe7cA6rAzWdbLTb/view?usp=sharing)
+- [Google Drive](https://drive.google.com/file/d/1J247xEv76QM-pAGNEIe7cA6rAzWdbLTb/view?usp=sharing)
 ##### Распакуйте архив в корень бота.
 
 ### Приятного использования!
